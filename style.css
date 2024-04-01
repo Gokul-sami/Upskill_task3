@@ -1,8 +1,8 @@
 .contain{
     padding: 10%;
-    width: 50%;
-    padding-left: 25%;
-    padding-right: 25%;
+    width: 30%;
+    padding-left: 35%;
+    padding-right: 35%;
 }
 .img{
     width: 100%;
@@ -14,13 +14,13 @@ img{
     align-items: center;
     width: 100%;
     background-image: linear-gradient(to right, yellow, lightgreen, lightblue);
-    border: 3px solid black;
+    border: 2px solid black;
 }
 button{
     width: 100%;
     background: none;
     border: none;
-    font-size: 30px;
+    font-size: 20px;
     color: white;
 }
 a{
